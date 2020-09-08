@@ -1,0 +1,3 @@
+include ':MethodLogPlugin'
+include ':app'
+rootProject.name = "MethodTimeLog-master"
